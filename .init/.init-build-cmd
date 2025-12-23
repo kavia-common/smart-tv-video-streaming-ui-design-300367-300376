@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-tv-video-streaming-ui-design-300367-300376/tv_streaming_frontend"
+}
